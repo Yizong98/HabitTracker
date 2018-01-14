@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the number of people drop-down Spinner -->
+    <string-array name="array_number_options">
+        <item>@string/depends</item>
+        <item>@string/group</item>
+        <item>@string/single</item>
+    </string-array>
+</resources>

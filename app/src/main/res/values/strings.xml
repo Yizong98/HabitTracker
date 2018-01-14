@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Habit Tracker</string>
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all habit data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Habits</string>
+
+    <!-- Title for the activity to add a new habit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for number of people information in the editor [CHAR LIMIT=30] -->
+    <string name="category_num_of_people">Num of People</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_duration">Duration</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_name">Habit Name</string>
+
+    <!-- Text hint for place field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_place">Place</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_time_length">Time Length(in hour)</string>
+
+    <!-- Label for dropdown menu option if the number of people is unknown [CHAR LIMIT=20] -->
+    <string name="depends">depends</string>
+
+    <!-- Label for dropdown menu option if the number of people is group [CHAR LIMIT=20] -->
+    <string name="group">group</string>
+
+    <!-- Label for dropdown menu option if the number of people is single [CHAR LIMIT=20] -->
+    <string name="single">single</string>
+</resources>
